@@ -3,9 +3,13 @@
   <img src="https://img.shields.io/github/repo-size/memb3r/Webrover"> <img src="https://img.shields.io/github/languages/top/memb3r/Webrover?color=green"> <img src="https://img.shields.io/github/last-commit/memb3r/Webrover">
 </p>
 
-<i>Webrover - is an OSINT-tool for looking information about IPs, hosts, websites. You can scan ports, search domains by IP, search IP by domain, find IPs geolocation, make WHOIS lookup.</i>
-
 <img src="webrover.png">
+
+# About
+
+Webrover - is an OSINT-tool for looking information about IPs, hosts, websites. You can scan ports, search domains by IP, search IP by domain, find IPs geolocation, make WHOIS lookup.
+
+The goal of this project is a simple and minimalistic tool that requires as little effort as possible to install.
 
 # How to install?
 
@@ -82,6 +86,8 @@ In 1.0, Webrover has only 5 options:
 4   >   IP to Domain
 5   >   Port Scanner
 ```
+
+You need to input your option number inside the program to use it.
 
 # Logs
 
